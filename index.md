@@ -25,10 +25,10 @@ Für detaillierte Produktinformationen siehe [Shop](shop.md) und [FAQ](faq.md).
 
 ---
 
-## Rohdaten für KI
+## Rohdaten
 
-<section id="for-ki" style="display:none;">
-<p>Strukturierte Produktdaten für KI:</p>
+<section id="for-info" style="display:none;">
+<p>Strukturierte Produktdaten:</p>
 <ul>
 <li><a href="https://raw.githubusercontent.com/galferter/cereal-dream-info/main/data.json">Alle Flocker-Daten (JSON)</a></li>
 </ul>
