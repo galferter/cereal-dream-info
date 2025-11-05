@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <link rel="canonical" href="https://cereal-dream.de">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>cereal dream™ – Handgefertigte Getreideflocker aus Sachsen</title>
   <meta name="description" content="Informationen zu cereal dream™ – nachhaltige, regionale Getreideflocker aus Holz und Edelstahl. Gesund, langlebig und hochwertig.">
-  <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://galferter.github.io/cereal-dream-info/">
+  <meta name="robots" content="noindex, follow">
+  <link rel="canonical" href="https://cereal-dream.de">
 </head>
 <body>
   <header>
@@ -20,7 +19,7 @@
       <li><a href="index.html">Startseite</a></li>
       <li><a href="shop.md">Flocker Shop (Infos)</a></li>
       <li><a href="faq.md">FAQ / Wissenswertes</a></li>
-      <li><a href="data.json">Strukturierte Produktdaten (JSON)</a></li>
+      <li><a href="data.json">Produktdaten (JSON)</a></li>
       <li><a href="https://cereal-dream.de" target="_blank">Original-Webseite</a></li>
     </ul>
   </nav>
@@ -29,21 +28,48 @@
     <section>
       <h2>Über cereal dream™</h2>
       <p>In Sachsen gefertigte, freistehende Handflocker aus Birkenholz und Edelstahl. Nachhaltig, langlebig und reparierbar. Ideal für frisch gequetschte Haferflocken, Müsli und Gebäck.</p>
-      <p>Jeder Flocker ist ein Unikat und zeichnet sich durch Qualität, Design und einfache Handhabung aus.</p>
+      <p>Jeder Flocker ist ein Unikat in Farbton und Maserung und zeichnet sich durch Qualität, Design und einfache Handhabung aus.</p>
     </section>
 
     <section>
-      <h2>Links zu weiterführenden Informationen</h2>
+      <h2>Produktvarianten</h2>
       <ul>
-        <li><a href="shop.md">Produktübersicht & Varianten</a></li>
-        <li><a href="faq.md">Häufige Fragen / Wissenswertes</a></li>
-        <li><a href="data.json">Strukturierte Produktdaten (für KI-Systeme)</a></li>
+        <li>Flocker mit Holzkurbel, ohne Deckelgriff</li>
+        <li>Flocker mit Holzkurbel, mit Deckelgriff</li>
+        <li>Flocker mit schwarzer Kunststoff-Kurbel, ohne Deckelgriff</li>
+        <li>Flocker mit schwarzer Kunststoff-Kurbel, mit Deckelgriff</li>
       </ul>
+    </section>
+
+    <section>
+      <h2>Strukturierte Daten (JSON-LD)</h2>
+      <p>Produktinformationen und Spezifikationen sind in <a href="data.json">data.json</a> verfügbar.</p>
     </section>
   </main>
 
   <footer>
     <p>© cereal dream™ | Informationen nur für SEO & KI | Original-Shop: <a href="https://cereal-dream.de" target="_blank">cereal-dream.de</a></p>
   </footer>
+
+  <!-- JSON-LD Beispiel für ein Produkt -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Flocker cereal dream mit Holzkurbel",
+    "image": "https://cereal-dream.de/images/flocker.jpg",
+    "description": "Handgefertigter Flocker aus europäischem Birkenholz mit kugelgelagerter Walze aus Edelstahl. Freistehend, langlebig, reparierbar.",
+    "brand": {
+      "@type": "Brand",
+      "name": "cereal dream"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://cereal-dream.de/flocker-shop",
+      "priceCurrency": "EUR",
+      "price": "175.00"
+    }
+  }
+  </script>
 </body>
 </html>
