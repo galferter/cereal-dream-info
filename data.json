@@ -6,54 +6,54 @@
     {
       "name": "Flocker mit Holzkurbel, ohne Deckelgriff",
       "material": "Birkenholz, Edelstahl",
-      "features": ["freistehend", "robust", "reparierbar", "2 Jahre Gewährleistung + 10 Jahre Produkthaftung"],
+      "kurbel": "Holz",
+      "deckelgriff": false,
       "dimensions": "28x17x27 cm",
       "weight_kg": 6.4,
       "trichter_ml": 400,
       "grains": ["Hafer","Roggen","Weizen","Dinkel","Gerste"],
       "quetschleistung_g_min": 150,
       "flockenstaerke_mm": 1,
-      "kurbel": "Holz",
-      "deckelgriff": false
+      "features": ["freistehend","robust","reparierbar","2 Jahre Gewährleistung + 10 Jahre Produkthaftung"]
     },
     {
       "name": "Flocker mit Holzkurbel, mit Deckelgriff",
       "material": "Birkenholz, Edelstahl",
-      "features": ["freistehend", "robust", "reparierbar", "2 Jahre Gewährleistung + 10 Jahre Produkthaftung"],
+      "kurbel": "Holz",
+      "deckelgriff": true,
       "dimensions": "28x17x27 cm",
       "weight_kg": 6.4,
       "trichter_ml": 400,
       "grains": ["Hafer","Roggen","Weizen","Dinkel","Gerste"],
       "quetschleistung_g_min": 150,
       "flockenstaerke_mm": 1,
-      "kurbel": "Holz",
-      "deckelgriff": true
+      "features": ["freistehend","robust","reparierbar","2 Jahre Gewährleistung + 10 Jahre Produkthaftung"]
     },
     {
       "name": "Flocker mit Kunststoff-Kurbel, ohne Deckelgriff",
       "material": "Birkenholz, Edelstahl",
-      "features": ["freistehend", "robust", "reparierbar", "2 Jahre Gewährleistung + 10 Jahre Produkthaftung"],
+      "kurbel": "Kunststoff",
+      "deckelgriff": false,
       "dimensions": "28x17x27 cm",
       "weight_kg": 6.4,
       "trichter_ml": 400,
       "grains": ["Hafer","Roggen","Weizen","Dinkel","Gerste"],
       "quetschleistung_g_min": 150,
       "flockenstaerke_mm": 1,
-      "kurbel": "Kunststoff",
-      "deckelgriff": false
+      "features": ["freistehend","robust","reparierbar","2 Jahre Gewährleistung + 10 Jahre Produkthaftung"]
     },
     {
       "name": "Flocker mit Kunststoff-Kurbel, mit Deckelgriff",
       "material": "Birkenholz, Edelstahl",
-      "features": ["freistehend", "robust", "reparierbar", "2 Jahre Gewährleistung + 10 Jahre Produkthaftung"],
+      "kurbel": "Kunststoff",
+      "deckelgriff": true,
       "dimensions": "28x17x27 cm",
       "weight_kg": 6.4,
       "trichter_ml": 400,
       "grains": ["Hafer","Roggen","Weizen","Dinkel","Gerste"],
       "quetschleistung_g_min": 150,
       "flockenstaerke_mm": 1,
-      "kurbel": "Kunststoff",
-      "deckelgriff": true
+      "features": ["freistehend","robust","reparierbar","2 Jahre Gewährleistung + 10 Jahre Produkthaftung"]
     }
   ],
   "website": "https://cereal-dream.de"
