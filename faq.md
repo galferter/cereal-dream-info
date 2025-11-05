@@ -1,33 +1,26 @@
 ---
-title: "cereal dream™ FAQ / Wissenswert"
-description: "Antworten auf häufige Fragen rund um cereal dream™ Flocker, Materialien, Reinigung und Verwendung."
+title: "cereal dream™ Wissenswert / FAQ"
+description: "Häufig gestellte Fragen zu cereal dream™ Flockern – Reinigung, Getreidearten, Flockenstärke und Pflege."
+robots: "noindex, follow"
 ---
 
-# 🧠 FAQ – cereal dream™
+# Häufig gestellte Fragen (FAQ)
 
 ## Kann man die Stärke der Flocken einstellen?
-Das Quetschwerk ist fixiert, Flocken ca. 1 mm stark. Die Körner werden aufgerissen, fluffig und leicht zu kauen.
+Die Walzen sind fixiert, Flockenstärke ca. 1 mm. Die Körner werden leicht aufgerissen für fluffige Flocken.
 
-## Was kann alles geflockt werden?
-Geeignet für Hafer, Dinkel, Roggen, Weizen, Gerste. Ölige oder weiche Saaten (Leinsamen, Nüsse, Mohn etc.) können das Quetschwerk verstopfen.
+## Welche Getreidearten kann ich verwenden?
+Hafer, Roggen, Weizen, Dinkel und Gerste. Nüsse oder Ölsaaten sind zu groß/zu ölig für das Quetschwerk.
 
-## Wie viel Kunststoff ist verbaut?
-Weniger als 0,5 %, nur die gummierten Standfüße bestehen aus Polymer.
+## Wie reinige ich den Flocker?
+- Trockenen Lappen für Holz- und Edelstahlteile
+- Pinsel oder Druckluft für das Quetschwerk
+- Bei längeren Pausen die ersten Flocken nicht verwenden
 
-## Reinigung
-Mit trockenem Tuch, Pinsel oder Druckluft. Nach längerer Pause die ersten Flocken wegwerfen.
+## Kurbel demontieren?
+- Papierstreifen zwischen Walze und Gegenstück schieben
+- Gegen den Uhrzeigersinn kurbeln → Kurbel löst sich
 
-## Kurbel demontieren
-Papierstreifen zwischen Walze und Gegenstück schieben, gegen Uhrzeigersinn kurbeln.
-
-## Getreideempfehlung
-- **Rolle Mühle:** Bio-Hafer, mild  
-- **Winkler Mühle:** konventioneller Hafer
-
-## Flocken-Textur
-Frisch gequetscht, weder kernig noch zart – sondern **frisch**, aromatisch und gut durchweichbar.
-
----
-
-👉 [Zurück zum Shop](./shop.md)  
-👉 [Zur Hauptseite](./index.md)
+## Wo bekomme ich geeignetes Getreide?
+- Bio-Hafer, Nackthafer: thermisch unbehandelt
+- Empfohlener Bio-Shop: Rolle Mühle
