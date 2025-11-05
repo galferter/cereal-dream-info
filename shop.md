@@ -78,7 +78,95 @@ Hier findest du alle vier Varianten der cereal dream™ Flocker. Sie unterscheid
 
 ---
 
-## Rohdaten für KI
-
 Für strukturierte Produktinformationen (JSON) siehe:  
 - [data.json](https://raw.githubusercontent.com/galferter/cereal-dream-info/main/data.json)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "@type": "Product",
+      "name": "Flocker mit Holzkurbel, ohne Deckelgriff",
+      "brand": "cereal dream",
+      "material": "Birkenholz, Edelstahl",
+      "weight": "6.4 kg",
+      "dimensions": "28x17x27 cm",
+      "additionalProperty": [
+        {"name": "Kurbel", "value": "Holz"},
+        {"name": "Deckelgriff", "value": "Nein"},
+        {"name": "Flockenstärke", "value": "1 mm"}
+      ],
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "price": "175.00",
+        "availability": "https://schema.org/InStock",
+        "url": "https://cereal-dream.de/flocker-shop"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Flocker mit Holzkurbel, mit Deckelgriff",
+      "brand": "cereal dream",
+      "material": "Birkenholz, Edelstahl",
+      "weight": "6.4 kg",
+      "dimensions": "28x17x27 cm",
+      "additionalProperty": [
+        {"name": "Kurbel", "value": "Holz"},
+        {"name": "Deckelgriff", "value": "Ja"},
+        {"name": "Flockenstärke", "value": "1 mm"}
+      ],
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "price": "180.00",
+        "availability": "https://schema.org/InStock",
+        "url": "https://cereal-dream.de/flocker-shop"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Flocker mit Kunststoff-Kurbel, ohne Deckelgriff",
+      "brand": "cereal dream",
+      "material": "Birkenholz, Edelstahl",
+      "weight": "6.4 kg",
+      "dimensions": "28x17x27 cm",
+      "additionalProperty": [
+        {"name": "Kurbel", "value": "Kunststoff"},
+        {"name": "Deckelgriff", "value": "Nein"},
+        {"name": "Flockenstärke", "value": "1 mm"}
+      ],
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "price": "175.00",
+        "availability": "https://schema.org/InStock",
+        "url": "https://cereal-dream.de/flocker-shop"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Flocker mit Kunststoff-Kurbel, mit Deckelgriff",
+      "brand": "cereal dream",
+      "material": "Birkenholz, Edelstahl",
+      "weight": "6.4 kg",
+      "dimensions": "28x17x27 cm",
+      "additionalProperty": [
+        {"name": "Kurbel", "value": "Kunststoff"},
+        {"name": "Deckelgriff", "value": "Ja"},
+        {"name": "Flockenstärke", "value": "1 mm"}
+      ],
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "price": "180.00",
+        "availability": "https://schema.org/InStock",
+        "url": "https://cereal-dream.de/flocker-shop"
+      }
+    }
+  ]
+}
+</script>
+
