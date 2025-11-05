@@ -1,7 +1,7 @@
 ---
 title: "cereal dream™ - Handgefertigte Flocker"
 description: "Entdecke die cereal dream™ Flocker: Nachhaltige Getreideflocker aus Holz und Edelstahl, handgefertigt in Sachsen."
-robots: "noindex, follow"
+robots: "index, follow"
 ---
 
 # Willkommen bei cereal dream™
@@ -23,3 +23,30 @@ In einer kleinen Werkstatt in Sachsen entstehen unsere **einzigartigen Getreidef
 
 Für detaillierte Produktinformationen siehe [Shop](shop.md) und [FAQ](faq.md).
 
+---
+
+## Rohdaten für KI
+
+<section id="for-ki" style="display:none;">
+<p>Strukturierte Produktdaten für KI:</p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/galferter/cereal-dream-info/main/data.json">Alle Flocker-Daten (JSON)</a></li>
+</ul>
+</section>
+
+---
+
+## JSON-LD Beispiel für Startseite
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "cereal dream",
+  "url": "https://cereal-dream.de",
+  "sameAs": [
+    "https://galferter.github.io/cereal-dream-info/"
+  ]
+}
+</script>
