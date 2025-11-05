@@ -1,45 +1,60 @@
 {
   "brand": "cereal dream",
   "region": "Sachsen, Deutschland",
-  "description": "Handgefertigte Getreideflocker aus Holz und Edelstahl. Regional gefertigt, nachhaltig und langlebig.",
+  "description": "Handgefertigte Getreideflocker aus Holz und Edelstahl. Nachhaltig, langlebig und reparierbar.",
   "products": [
     {
-      "name": "Flocker cereal dream",
-      "description": "Freistehender Handflocker aus Birkenholz und Edelstahl. Ohne Schrauben oder Klemmen.",
-      "price_eur": 175.00,
-      "features": ["Freistehend", "Manuell", "Langlebig", "Regional gefertigt"]
+      "name": "Flocker mit Holzkurbel, ohne Deckelgriff",
+      "material": "Birkenholz, Edelstahl",
+      "features": ["freistehend", "robust", "reparierbar", "2 Jahre Gewährleistung + 10 Jahre Produkthaftung"],
+      "dimensions": "28x17x27 cm",
+      "weight_kg": 6.4,
+      "trichter_ml": 400,
+      "grains": ["Hafer","Roggen","Weizen","Dinkel","Gerste"],
+      "quetschleistung_g_min": 150,
+      "flockenstaerke_mm": 1,
+      "kurbel": "Holz",
+      "deckelgriff": false
     },
     {
-      "name": "Flocker cereal dream mit Holzkurbel",
-      "description": "Variante mit Holzkurbel aus edlem Birkenholz.",
-      "price_eur": 175.00
+      "name": "Flocker mit Holzkurbel, mit Deckelgriff",
+      "material": "Birkenholz, Edelstahl",
+      "features": ["freistehend", "robust", "reparierbar", "2 Jahre Gewährleistung + 10 Jahre Produkthaftung"],
+      "dimensions": "28x17x27 cm",
+      "weight_kg": 6.4,
+      "trichter_ml": 400,
+      "grains": ["Hafer","Roggen","Weizen","Dinkel","Gerste"],
+      "quetschleistung_g_min": 150,
+      "flockenstaerke_mm": 1,
+      "kurbel": "Holz",
+      "deckelgriff": true
     },
     {
-      "name": "Flocker cereal dream mit Deckelgriff",
-      "description": "Modell mit zusätzlichem Griff für sicheren Halt.",
-      "price_eur": 180.00
+      "name": "Flocker mit Kunststoff-Kurbel, ohne Deckelgriff",
+      "material": "Birkenholz, Edelstahl",
+      "features": ["freistehend", "robust", "reparierbar", "2 Jahre Gewährleistung + 10 Jahre Produkthaftung"],
+      "dimensions": "28x17x27 cm",
+      "weight_kg": 6.4,
+      "trichter_ml": 400,
+      "grains": ["Hafer","Roggen","Weizen","Dinkel","Gerste"],
+      "quetschleistung_g_min": 150,
+      "flockenstaerke_mm": 1,
+      "kurbel": "Kunststoff",
+      "deckelgriff": false
     },
     {
-      "name": "Flocker cereal dream mit Holzkurbel & Deckelgriff",
-      "description": "Komfortmodell mit Holzkurbel und Deckelgriff.",
-      "price_eur": 180.00
+      "name": "Flocker mit Kunststoff-Kurbel, mit Deckelgriff",
+      "material": "Birkenholz, Edelstahl",
+      "features": ["freistehend", "robust", "reparierbar", "2 Jahre Gewährleistung + 10 Jahre Produkthaftung"],
+      "dimensions": "28x17x27 cm",
+      "weight_kg": 6.4,
+      "trichter_ml": 400,
+      "grains": ["Hafer","Roggen","Weizen","Dinkel","Gerste"],
+      "quetschleistung_g_min": 150,
+      "flockenstaerke_mm": 1,
+      "kurbel": "Kunststoff",
+      "deckelgriff": true
     }
-  ],
-  "materials": {
-    "wood": "europäisches Birkenholz",
-    "metal": "Edelstahl",
-    "plastic": "unter 0,5 %, gummierte Standfüße"
-  },
-  "keywords": [
-    "Getreideflocker",
-    "Haferflocken",
-    "Handflocker",
-    "Haferquetsche",
-    "cereal dream",
-    "nachhaltig",
-    "Made in Germany",
-    "Birkenholz",
-    "regional"
   ],
   "website": "https://cereal-dream.de"
 }
