@@ -5,31 +5,30 @@ description: "Freistehende Handflocker aus Holz und Edelstahl – regional gefer
 
 # 🛍 cereal dream™ Flocker Shop
 
-Hier finden Sie die cereal dream™ Flocker in verschiedenen Varianten.  
-Jeder Flocker ist freistehend – kein Festklemmen, keine Schrauben, keine Fixierungen an der Arbeitsplatte.
+Hier finden Sie alle Varianten der cereal dream™ Flocker mit den wichtigsten Eigenschaften:
 
-Das Funktionsprinzip: ein leichtgängiges Quetschwerk mit sicherem Stand.  
-Einfach auf den Tisch stellen, Körner einfüllen, kurbeln – fertig.
+## Produktinformationen (alle Varianten ähnlich)
 
-## Varianten und Preise
+- **Material:** Europäisches Birkenholz, Edelstahl-Quetschwerk  
+- **Stand-alone:** Keine Befestigung nötig, freistehend  
+- **Maße:** LxBxH: 28x17x27 cm; Breite inkl. Kurbel: ca. 27 cm  
+- **Gewicht:** ca. 6,4 kg  
+- **Trichtervolumen:** ca. 400 ml  
+- **Getreide:** Hafer, Roggen, Weizen, Dinkel, Gerste  
+- **Quetschleistung:** bis zu 150 g/min  
+- **Flockenstärke:** ca. 1 mm, unveränderlich  
+- **Kurbel:** Holz oder schwarze Kunststoff-Kurbel  
+- **Langlebigkeit:** Robust, reparierbar, 2 Jahre Gewährleistung + 10 Jahre Produkthaftung  
+- **Ersatzteile:** mindestens 15 Jahre verfügbar (Herstellung bis zu 6 Wochen)
 
-| Modell | Beschreibung | Preis (zzgl. Versand) |
-|--------|---------------|-----------------------|
-| Flocker cereal dream | Standardmodell | €175.00 |
-| Flocker cereal dream mit Holzkurbel | Holzgriff-Variante | €175.00 |
-| Flocker cereal dream mit Deckelgriff | Mit zusätzlichem Griff für sicheren Halt | €180.00 |
-| Flocker cereal dream mit Holzkurbel & Deckelgriff | Komfortmodell | €180.00 |
+## Varianten
 
----
-
-## Vorteile des Handflockers
-
-- Kein Stromverbrauch – rein manuell  
-- Besonders leichtgängiges Quetschwerk  
-- Optimiert für Hafer, geeignet auch für Dinkel, Roggen, Weizen und Gerste  
-- Für eine frische, nährstoffreiche und nachhaltige Ernährung  
-
-Das Ergebnis: **fluffige, aromatische Haferflocken**, perfekt für Porridge, Müsli und Gebäck.
+| Modell | Kurbel | Deckelgriff |
+|--------|--------|-------------|
+| Flocker 1 | Holz | Nein |
+| Flocker 2 | Holz | Ja |
+| Flocker 3 | Kunststoff | Nein |
+| Flocker 4 | Kunststoff | Ja |
 
 ---
 
