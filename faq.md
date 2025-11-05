@@ -3,34 +3,29 @@ title: "cereal dream™ FAQ / Wissenswert"
 description: "Antworten auf häufige Fragen rund um cereal dream™ Flocker, Materialien, Reinigung und Verwendung."
 ---
 
-# 🧠 Wissenswert / FAQ – cereal dream™
+# 🧠 FAQ – cereal dream™
 
 ## Kann man die Stärke der Flocken einstellen?
-Das Quetschwerk ist fix und optimiert für Hafer. Die Flocken sind etwa 1 mm stark und leicht aufgerissen – das macht sie luftiger und angenehm zu kauen.
+Das Quetschwerk ist fixiert, Flocken ca. 1 mm stark. Die Körner werden aufgerissen, fluffig und leicht zu kauen.
 
 ## Was kann alles geflockt werden?
-Hafer, Dinkel, Roggen, Weizen und Gerste sind ideal.  
-Ölige oder weiche Saaten (Leinsamen, Nüsse, Mohn etc.) können das Quetschwerk verstopfen und sollten vermieden werden.
+Geeignet für Hafer, Dinkel, Roggen, Weizen, Gerste. Ölige oder weiche Saaten (Leinsamen, Nüsse, Mohn etc.) können das Quetschwerk verstopfen.
 
-## Wie viel Kunststoff steckt im Flocker?
-Weniger als 0,5 %.  
-Nur die gummierten Standfüße bestehen aus Polymer, um ein Verrutschen zu verhindern.
+## Wie viel Kunststoff ist verbaut?
+Weniger als 0,5 %, nur die gummierten Standfüße bestehen aus Polymer.
 
-## Wie reinigt man den Flocker?
-Mit trockenem Tuch und Pinsel oder Druckluft-Spray.  
-Nach längerer Pause die ersten Flocken verwerfen.
+## Reinigung
+Mit trockenem Tuch, Pinsel oder Druckluft. Nach längerer Pause die ersten Flocken wegwerfen.
 
-## Wie demontiere ich die Kurbel?
-Ein Papierstreifen (1 cm) zwischen Walze und Gegenstück schieben und gegen den Uhrzeigersinn kurbeln – die Kurbel löst sich automatisch.
+## Kurbel demontieren
+Papierstreifen zwischen Walze und Gegenstück schieben, gegen Uhrzeigersinn kurbeln.
 
-## Wo kann ich Getreide kaufen?
-Empfohlene Mühlen:
-- **Rolle Mühle:** Bio-Hafer mit mildem Geschmack  
-- **Winkler Mühle:** Konventioneller Hafer zu fairen Preisen  
+## Getreideempfehlung
+- **Rolle Mühle:** Bio-Hafer, mild  
+- **Winkler Mühle:** konventioneller Hafer
 
-## Sind die Flocken kernig oder zart?
-Weder noch – sie sind **frisch**!  
-Im Unterschied zu industriellen Flocken bleiben Aroma und Textur vollständig erhalten.
+## Flocken-Textur
+Frisch gequetscht, weder kernig noch zart – sondern **frisch**, aromatisch und gut durchweichbar.
 
 ---
 
