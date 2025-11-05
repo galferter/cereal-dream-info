@@ -1,36 +1,49 @@
 ---
 title: "cereal dream™ Flocker Shop"
-description: "Freistehende Handflocker aus Holz und Edelstahl – regional gefertigt, nachhaltig und langlebig."
+description: "Alle Varianten der cereal dream™ Flocker: Mit Holz- oder Kunststoffkurbel, mit oder ohne Deckelgriff."
+robots: "noindex, follow"
 ---
 
-# 🛍 cereal dream™ Flocker Shop
+# cereal dream™ Flocker Shop
 
-Hier finden Sie alle Varianten der cereal dream™ Flocker mit den wichtigsten Eigenschaften:
+Hier findest du alle **vier Varianten der Flocker**. Sie unterscheiden sich nur in Kurbeltyp und Deckelgriff, ansonsten sind Material, Maße und Funktionen identisch.
 
-## Produktinformationen (alle Varianten ähnlich)
+## Produktübersicht
 
-- **Material:** Europäisches Birkenholz, Edelstahl-Quetschwerk  
-- **Stand-alone:** Keine Befestigung nötig, freistehend  
-- **Maße:** LxBxH: 28x17x27 cm; Breite inkl. Kurbel: ca. 27 cm  
-- **Gewicht:** ca. 6,4 kg  
-- **Trichtervolumen:** ca. 400 ml  
-- **Getreide:** Hafer, Roggen, Weizen, Dinkel, Gerste  
-- **Quetschleistung:** bis zu 150 g/min  
-- **Flockenstärke:** ca. 1 mm, unveränderlich  
-- **Kurbel:** Holz oder schwarze Kunststoff-Kurbel  
-- **Langlebigkeit:** Robust, reparierbar, 2 Jahre Gewährleistung + 10 Jahre Produkthaftung  
-- **Ersatzteile:** mindestens 15 Jahre verfügbar (Herstellung bis zu 6 Wochen)
+### 1. Flocker mit Holzkurbel, ohne Deckelgriff
 
-## Varianten
+- Material: Birkenholz, Edelstahl
+- Kurbel: Holz
+- Deckelgriff: Nein
+- Maße: 28x17x27 cm
+- Gewicht: 6,4 kg
+- Trichtervolumen: 400 ml
+- Getreide: Hafer, Roggen, Weizen, Dinkel, Gerste
+- Quetschleistung: bis zu 150 g/min
+- Flockenstärke: ca. 1 mm
+- Merkmale: freistehend, robust, reparierbar, 2 Jahre Gewährleistung + 10 Jahre Produkthaftung
 
-| Modell | Kurbel | Deckelgriff |
-|--------|--------|-------------|
-| Flocker 1 | Holz | Nein |
-| Flocker 2 | Holz | Ja |
-| Flocker 3 | Kunststoff | Nein |
-| Flocker 4 | Kunststoff | Ja |
+### 2. Flocker mit Holzkurbel, mit Deckelgriff
+
+- Material: Birkenholz, Edelstahl
+- Kurbel: Holz
+- Deckelgriff: Ja
+- (Rest wie oben)
+
+### 3. Flocker mit Kunststoff-Kurbel, ohne Deckelgriff
+
+- Material: Birkenholz, Edelstahl
+- Kurbel: Kunststoff
+- Deckelgriff: Nein
+- (Rest wie oben)
+
+### 4. Flocker mit Kunststoff-Kurbel, mit Deckelgriff
+
+- Material: Birkenholz, Edelstahl
+- Kurbel: Kunststoff
+- Deckelgriff: Ja
+- (Rest wie oben)
 
 ---
 
-👉 [Zur Hauptseite](./index.md)  
-👉 [FAQ / Wissenswertes](./faq.md)
+Weitere Informationen zu Nutzung, Reinigung und Flockenarten siehe [FAQ](faq.md).
