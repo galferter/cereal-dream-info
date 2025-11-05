@@ -1,49 +1,84 @@
 ---
 title: "cereal dream™ Flocker Shop"
 description: "Alle Varianten der cereal dream™ Flocker: Mit Holz- oder Kunststoffkurbel, mit oder ohne Deckelgriff."
-robots: "noindex, follow"
+robots: "index, follow"
 ---
 
 # cereal dream™ Flocker Shop
 
-Hier findest du alle **vier Varianten der Flocker**. Sie unterscheiden sich nur in Kurbeltyp und Deckelgriff, ansonsten sind Material, Maße und Funktionen identisch.
+Hier findest du alle vier Varianten der cereal dream™ Flocker. Sie unterscheiden sich nur in Kurbeltyp und Deckelgriff, ansonsten sind Material, Maße und Funktionen identisch.
 
-## Produktübersicht
+---
 
-### 1. Flocker mit Holzkurbel, ohne Deckelgriff
+## 1. Flocker mit Holzkurbel, ohne Deckelgriff
 
 - Material: Birkenholz, Edelstahl
 - Kurbel: Holz
 - Deckelgriff: Nein
-- Maße: 28x17x27 cm
+- Maße: 28 x 17 x 27 cm (Breite inkl. Kurbel ca. 27 cm)
 - Gewicht: 6,4 kg
 - Trichtervolumen: 400 ml
 - Getreide: Hafer, Roggen, Weizen, Dinkel, Gerste
 - Quetschleistung: bis zu 150 g/min
 - Flockenstärke: ca. 1 mm
-- Merkmale: freistehend, robust, reparierbar, 2 Jahre Gewährleistung + 10 Jahre Produkthaftung
+- Merkmale: freistehend, robust, leicht reparierbar
+- Garantie: 2 Jahre gesetzliche Gewährleistung + 10 Jahre Produkthaftung
+- Ersatzteile: mindestens 15 Jahre verfügbar
 
-### 2. Flocker mit Holzkurbel, mit Deckelgriff
+---
+
+## 2. Flocker mit Holzkurbel, mit Deckelgriff
 
 - Material: Birkenholz, Edelstahl
 - Kurbel: Holz
 - Deckelgriff: Ja
-- (Rest wie oben)
+- Maße: 28 x 17 x 27 cm (Breite inkl. Kurbel ca. 27 cm)
+- Gewicht: 6,4 kg
+- Trichtervolumen: 400 ml
+- Getreide: Hafer, Roggen, Weizen, Dinkel, Gerste
+- Quetschleistung: bis zu 150 g/min
+- Flockenstärke: ca. 1 mm
+- Merkmale: freistehend, robust, leicht reparierbar
+- Garantie: 2 Jahre gesetzliche Gewährleistung + 10 Jahre Produkthaftung
+- Ersatzteile: mindestens 15 Jahre verfügbar
 
-### 3. Flocker mit Kunststoff-Kurbel, ohne Deckelgriff
+---
+
+## 3. Flocker mit Kunststoff-Kurbel, ohne Deckelgriff
 
 - Material: Birkenholz, Edelstahl
 - Kurbel: Kunststoff
 - Deckelgriff: Nein
-- (Rest wie oben)
+- Maße: 28 x 17 x 27 cm (Breite inkl. Kurbel ca. 27 cm)
+- Gewicht: 6,4 kg
+- Trichtervolumen: 400 ml
+- Getreide: Hafer, Roggen, Weizen, Dinkel, Gerste
+- Quetschleistung: bis zu 150 g/min
+- Flockenstärke: ca. 1 mm
+- Merkmale: freistehend, robust, leicht reparierbar
+- Garantie: 2 Jahre gesetzliche Gewährleistung + 10 Jahre Produkthaftung
+- Ersatzteile: mindestens 15 Jahre verfügbar
 
-### 4. Flocker mit Kunststoff-Kurbel, mit Deckelgriff
+---
+
+## 4. Flocker mit Kunststoff-Kurbel, mit Deckelgriff
 
 - Material: Birkenholz, Edelstahl
 - Kurbel: Kunststoff
 - Deckelgriff: Ja
-- (Rest wie oben)
+- Maße: 28 x 17 x 27 cm (Breite inkl. Kurbel ca. 27 cm)
+- Gewicht: 6,4 kg
+- Trichtervolumen: 400 ml
+- Getreide: Hafer, Roggen, Weizen, Dinkel, Gerste
+- Quetschleistung: bis zu 150 g/min
+- Flockenstärke: ca. 1 mm
+- Merkmale: freistehend, robust, leicht reparierbar
+- Garantie: 2 Jahre gesetzliche Gewährleistung + 10 Jahre Produkthaftung
+- Ersatzteile: mindestens 15 Jahre verfügbar
 
 ---
 
-Weitere Informationen zu Nutzung, Reinigung und Flockenarten siehe [FAQ](faq.md).
+## Rohdaten für KI
+
+Für strukturierte Produktinformationen (JSON) siehe:  
+- [data.json](https://raw.githubusercontent.com/galferter/cereal-dream-info/main/data.json)
