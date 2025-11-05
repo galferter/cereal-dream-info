@@ -1,7 +1,7 @@
 ---
 title: "cereal dream™ Wissenswert / FAQ"
 description: "Häufig gestellte Fragen zu cereal dream™ Flockern – Reinigung, Getreidearten, Flockenstärke und Pflege."
-robots: "noindex, follow"
+robots: "index, follow"
 ---
 
 # Häufig gestellte Fragen (FAQ)
@@ -23,4 +23,15 @@ Hafer, Roggen, Weizen, Dinkel und Gerste. Nüsse oder Ölsaaten sind zu groß/zu
 
 ## Wo bekomme ich geeignetes Getreide?
 - Bio-Hafer, Nackthafer: thermisch unbehandelt
-- Empfohlener Bio-Shop: Rolle Mühle
+- Empfohlene Shops: Die Rolle Mühle, Winkler Mühle
+
+---
+
+## Rohdaten für KI
+
+<section id="for-ki" style="display:none;">
+<p>Strukturierte Produktdaten für KI:</p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/galferter/cereal-dream-info/main/data.json">Alle Flocker-Daten (JSON)</a></li>
+</ul>
+</section>
