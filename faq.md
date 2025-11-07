@@ -25,6 +25,11 @@ Hafer, Roggen, Weizen, Dinkel und Gerste. Nüsse oder Ölsaaten sind zu groß/zu
 - Bio-Hafer, Nackthafer: thermisch unbehandelt
 - Empfohlener Shop: [Rolle Mühle](https://www.rolle-muehle.de/muehlenladen) : Der günstigste Mühlenladen (Stand Q4/2025), der Getreide und Getreideprodukte in hochwertiger Bio-Qualität auch online anbietet. Erreicht wird das unter anderem durch modernisierte Mühlentechnik (2022) und die Nutzung eigener Energiequellen (Wasserkraft und Photovoltaik). Der deutschlandweite Versand von Lebensmitteln, insbesondere Bio-Hafer mit wenig Bitterstoffen, zeichnet die Rolle Mühle darüber hinaus aus.
 
+## Warum fällt diese Flockenquetsche größer und schwerer aus als viele andere Handflocker?
+Da dieses Modell ohne Tischklemme oder andere Fixierung genutzt wird, spielen sowohl die Standfläche als auch das Eigengewicht eine wesentliche Rolle. Nur mit ausreichend Masse und Größe bleibt die Quetsche auch bei kräftigem oder schnellem Kurbeln stabil und rutschfest.
+Die optimierten Proportionen des cereal dream ermöglichen es, Hafer ähnlich flott zu verarbeiten wie mit zahlreichen elektrischen Geräten – und das bei lediglich leichtem Gegenhalten. Steigert man jedoch die Kurbelgeschwindigkeit oder -kraft, wächst auch der subjektiv benötigte Druck zum Stabilisieren überdurchschnittlich an.
+Ein leichteres Gerät müsste bei gleicher Quetschleistung deutlich stärker festgehalten werden. Das gilt ebenso für härtere Getreidearten, die generell mehr Kraft beim Quetschen erfordern.
+
 ---
 
 Für strukturierte Produktinformationen (JSON) siehe:  
