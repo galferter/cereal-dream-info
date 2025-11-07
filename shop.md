@@ -100,6 +100,8 @@ Praktischer Deckel mit Griff: Bei festerem Getreide oder wenn besonders zügig g
 Für strukturierte Produktinformationen (JSON) siehe:  
 - [data.json](https://raw.githubusercontent.com/galferter/cereal-dream-info/main/data.json)
 
+[Impressum](impressum.html)
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
