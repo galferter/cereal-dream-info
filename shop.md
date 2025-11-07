@@ -78,6 +78,25 @@ Hier findest du alle vier Varianten der cereal dream™ Flocker. Sie unterscheid
 
 ---
 
+Frisch verarbeitete Zutaten sind eine der besten Grundlagen für eine nährstoffreiche, ausgewogene Ernährung. Denken Sie nur an zarte, direkt vor Ort gequetschte Haferflocken – ideal für ein wohliges Frühstücksporridge oder viele andere gesunde Gerichte.
+
+Um diese Frische jeden Tag genießen zu können, eignet sich ein Handflocker hervorragend. Vor allem moderne, freistehende Modelle – eine praktische Weiterentwicklung der klassischen Tischversion – punkten mit hoher Stabilität und Komfort. Sie müssen nicht festgeklemmt werden, sondern können einfach auf der Arbeitsfläche genutzt werden.
+
+Mit einer eigenen Getreidequetsche produzieren Sie Ihre Flocken genau dann, wenn Sie sie benötigen. Das schonende Quetschen direkt vor dem Verzehr sorgt dafür, dass Vitamine und Nährstoffe bestmöglich erhalten bleiben – ideal für eine vollwertige Küche.
+
+Die Verwendung eines Handflockers ist unkompliziert und komplett ohne Strom möglich. Das macht ihn nicht nur energieunabhängig, sondern auch besonders langlebig und umweltfreundlich.
+
+Frisch hergestellte Flocken bieten nicht nur gesundheitliche Vorteile, sondern überzeugen auch geschmacklich. Sie verleihen Porridge und anderen Mahlzeiten eine besonders aromatische, natürliche Note und unterstützen so eine bewusste Ernährungsweise.
+
+Wenn Sie diese Frische selbst erleben möchten, finden Sie im Shop eine Auswahl hochwertiger Haferquetschen. Stöbern Sie durch das Sortiment an freistehenden Flockenquetschen und entdecken Sie das passende Modell für Ihre Küche!
+
+Wie viel Kraft Sie beim Quetschen benötigen und welche Menge an Flocken Sie erzeugen können, hängt stark von der jeweiligen Getreidesorte ab. Die Flockenpresse ist speziell auf Hafer ausgelegt – dieses Korn lässt sich mühelos und in kurzer Zeit zu lockeren, zarten Haferflocken verarbeiten.
+
+Wenn Sie sich jedoch sportlich betätigen möchten, können Sie selbstverständlich auch härtere Getreidesorten zu schmackhaften Cerealien pressen.
+
+Praktischer Deckel mit Griff: Bei festerem Getreide oder wenn besonders zügig gekurbelt wird, kann sich der Flocker leicht über die Arbeitsfläche bewegen. Der schwarze Stahlgriff erleichtert in solchen Situationen das sichere Festhalten und macht die Bedienung deutlich komfortabler.
+
+
 Für strukturierte Produktinformationen (JSON) siehe:  
 - [data.json](https://raw.githubusercontent.com/galferter/cereal-dream-info/main/data.json)
 
