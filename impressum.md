@@ -1,3 +1,7 @@
+---
+title: Impressum
+---
+
 Gerätebau Martin Fuchs
 Martin Fuchs
 An der Insel 2
