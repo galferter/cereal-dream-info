@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://galferter.github.io/cereal-dream-info/sitemap.xml
