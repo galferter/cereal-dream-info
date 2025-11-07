@@ -9,8 +9,17 @@ robots: "index, follow"
 ## Kann man die Stärke der Flocken einstellen?
 Die Walzen sind fixiert, Flockenstärke ca. 1 mm. Die Körner werden leicht aufgerissen für fluffige Flocken.
 
-## Welche Getreidearten kann ich verwenden?
-Hafer, Roggen, Weizen, Dinkel und Gerste. Nüsse oder Ölsaaten sind zu groß/zu ölig für das Quetschwerk.
+## Welche Getreidearten lassen sich mit der Flockenpresse verarbeiten?
+Neben Hafer können Sie auch andere gängige Getreidesorten wie Dinkel, Roggen, Gerste oder Weizen problemlos zu frischen Flocken verarbeiten.
+Wenn Sie darüber hinaus weitere Lebensmittel quetschen möchten, sollten einige Punkte berücksichtigt werden, die für alle gängigen Flockenquetschen am Markt gelten (auch wenn das bei den meisten Quetschen nicht explizit beschrieben ist):
+Zu große Lebensmittel insbesondere mit harter glatter Oberfläche (z.B. Nüsse) werden von Walzendurchmessern (meist kleiner 50 mm) die in gängigen Flockern genutzt werden nicht erfasst.
+Sehr kleine Saaten: Winzige Körner – etwa Leinsamen – sind oft dünner als 1 mm und werden beim Quetschen nicht oder kaum verändert.
+Weiche oder fettreiche Lebensmittel: Ölsaaten, Nüsse, Mohn, Hülsenfrüchte, Mais, Reis, Quinoa oder generell sehr weiche, ölhaltige Zutaten können im Quetschwerk kleben bleiben und es zusetzen. Eine gründliche Reinigung ist danach nur mit viel Aufwand möglich.
+
+## Sind die Haferflocken eher „kernig“ oder „zart“?
+Frisch gequetschte Haferflocken lassen sich kaum mit den standardisierten Produkten aus dem Supermarkt vergleichen. Sowohl das Mundgefühl als auch der Geschmack und das Quellverhalten unterscheiden sich deutlich. Industriell hergestellte Flocken wirken nahezu identisch – die individuellen Eigenschaften des ursprünglichen Korns sind kaum noch erkennbar, und das Kauen wird schnell monoton. Zudem macht die industrielle Verarbeitung die im Hafer enthaltenen Fette empfindlicher gegenüber Oxidation: Die Flocken können schneller ranzig werden und büßen an Aroma ein. Auch bestimmte Vitamine nehmen während längerer Lagerung in Flockenform ab.
+Durch die intensive Trocknung sind konventionelle Haferflocken meist weniger knackig und weichen im Müsli oder Porridge schlechter durch. Frisch gequetschte Flocken hingegen behalten ihre natürlichen Aromen viel besser und schmecken dadurch deutlich intensiver.
+Die mit dem cereal dream hergestellten Haferflocken lassen sich daher nicht eindeutig in „kernig“ oder „zart“ einordnen – sie sind vor allem eines: frisch.
 
 ## Wie reinige ich den Flocker?
 - Trockenen Lappen für Holz- und Edelstahlteile
