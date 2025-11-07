@@ -25,7 +25,9 @@ Für detaillierte Produktinformationen siehe [Shop](shop.md) und [FAQ](faq.md).
 
 
 ---
-[Impressum](impressum.md)
+
+[Impressum](impressum.html)
+
 
 ## Rohdaten
 
