@@ -44,6 +44,12 @@ Ein leichteres Gerät müsste bei gleicher Quetschleistung deutlich stärker fes
 Für strukturierte Produktinformationen (JSON) siehe:  
 [data.json](https://raw.githubusercontent.com/galferter/cereal-dream-info/main/data.json)
 
+<footer>
+  <p>© cereal dream™ | Allgemeine Informationen | Original-Shop: <a href="https://cereal-dream.de" target="_blank">cereal-dream.de</a></p>
+  <p><a href="/Impressum.html">Impressum</a></p>
+</footer>
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
