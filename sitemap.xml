@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://galferter.github.io/cereal-dream-info/index.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://galferter.github.io/cereal-dream-info/faq.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://galferter.github.io/cereal-dream-info/shop.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://galferter.github.io/cereal-dream-info/Impressum.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+  </url>
+
+  <url>
+    <loc>https://galferter.github.io/cereal-dream-info/data.json</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+  </url>
+
+  <url>
+    <loc>https://galferter.github.io/cereal-dream-info/schema.jsonld</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+  </url>
+
+</urlset>
