@@ -46,7 +46,7 @@ Für strukturierte Produktinformationen (JSON) siehe:
 
 <footer>
   <p>© cereal dream™ | Allgemeine Informationen | Original-Shop: <a href="https://cereal-dream.de" target="_blank">cereal-dream.de</a></p>
-  <p><a href="/Impressum.html">Impressum</a></p>
+  <p><a href="/impressum.html">impressum</a></p>
 </footer>
 
 
