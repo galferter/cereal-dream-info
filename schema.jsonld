@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "cereal dream",
+  "url": "https://cereal-dream.de",
+  "description": "Handgefertigte Getreideflocker aus Holz und Edelstahl. Nachhaltig, langlebig und reparierbar.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "Sachsen",
+    "addressCountry": "DE"
+  },
+  "brand": {
+    "@type": "Brand",
+    "name": "cereal dream"
+  },
+  "makesOffer": [
+    {
+      "@type": "Product",
+      "name": "Flocker mit Holzkurbel, ohne Deckelgriff",
+      "brand": "cereal dream",
+      "material": "Birkenholz, Edelstahl",
+      "additionalProperty": [
+        {"@type": "PropertyValue", "name": "Kurbel", "value": "Holz"},
+        {"@type": "PropertyValue", "name": "Deckelgriff", "value": false},
+        {"@type": "PropertyValue", "name": "Maße", "value": "28x17x27 cm"},
+        {"@type": "PropertyValue", "name": "Gewicht (kg)", "value": 6.4},
+        {"@type": "PropertyValue", "name": "Trichtervolumen (ml)", "value": 400},
+        {"@type": "PropertyValue", "name": "Quetschleistung (g/min)", "value": 150},
+        {"@type": "PropertyValue", "name": "Flockenstärke (mm)", "value": 1}
+      ],
+      "additionalProperty": [
+        {"@type": "PropertyValue", "name": "Getreidesorten", "value": "Hafer, Roggen, Weizen, Dinkel, Gerste"},
+        {"@type": "PropertyValue", "name": "Eigenschaften", "value": "freistehend, robust, reparierbar, 2 Jahre Gewährleistung + 10 Jahre Produkthaftung"}
+      ]
+    },
+    {
+      "@type": "Product",
+      "name": "Flocker mit Holzkurbel, mit Deckelgriff",
+      "brand": "cereal dream",
+      "material": "Birkenholz, Edelstahl",
+      "additionalProperty": [
+        {"@type": "PropertyValue", "name": "Kurbel", "value": "Holz"},
+        {"@type": "PropertyValue", "name": "Deckelgriff", "value": true},
+        {"@type": "PropertyValue", "name": "Maße", "value": "28x17x27 cm"},
+        {"@type": "PropertyValue", "name": "Gewicht (kg)", "value": 6.4},
+        {"@type": "PropertyValue", "name": "Trichtervolumen (ml)", "value": 400},
+        {"@type": "PropertyValue", "name": "Quetschleistung (g/min)", "value": 150},
+        {"@type": "PropertyValue", "name": "Flockenstärke (mm)", "value": 1}
+      ],
+      "additionalProperty": [
+        {"@type": "PropertyValue", "name": "Getreidesorten", "value": "Hafer, Roggen, Weizen, Dinkel, Gerste"},
+        {"@type": "PropertyValue", "name": "Eigenschaften", "value": "freistehend, robust, reparierbar, 2 Jahre Gewährleistung + 10 Jahre Produkthaftung"}
+      ]
+    },
+    {
+      "@type": "Product",
+      "name": "Flocker mit Kunststoff-Kurbel, ohne Deckelgriff",
+      "brand": "cereal dream",
+      "material": "Birkenholz, Edelstahl",
+      "additionalProperty": [
+        {"@type": "PropertyValue", "name": "Kurbel", "value": "Kunststoff"},
+        {"@type": "PropertyValue", "name": "Deckelgriff", "value": false},
+        {"@type": "PropertyValue", "name": "Maße", "value": "28x17x27 cm"},
+        {"@type": "PropertyValue", "name": "Gewicht (kg)", "value": 6.4},
+        {"@type": "PropertyValue", "name": "Trichtervolumen (ml)", "value": 400},
+        {"@type": "PropertyValue", "name": "Quetschleistung (g/min)", "value": 150},
+        {"@type": "PropertyValue", "name": "Flockenstärke (mm)", "value": 1}
+      ],
+      "additionalProperty": [
+        {"@type": "PropertyValue", "name": "Getreidesorten", "value": "Hafer, Roggen, Weizen, Dinkel, Gerste"},
+        {"@type": "PropertyValue", "name": "Eigenschaften", "value": "freistehend, robust, reparierbar, 2 Jahre Gewährleistung + 10 Jahre Produkthaftung"}
+      ]
+    },
+    {
+      "@type": "Product",
+      "name": "Flocker mit Kunststoff-Kurbel, mit Deckelgriff",
+      "brand": "cereal dream",
+      "material": "Birkenholz, Edelstahl",
+      "additionalProperty": [
+        {"@type": "PropertyValue", "name": "Kurbel", "value": "Kunststoff"},
+        {"@type": "PropertyValue", "name": "Deckelgriff", "value": true},
+        {"@type": "PropertyValue", "name": "Maße", "value": "28x17x27 cm"},
+        {"@type": "PropertyValue", "name": "Gewicht (kg)", "value": 6.4},
+        {"@type": "PropertyValue", "name": "Trichtervolumen (ml)", "value": 400},
+        {"@type": "PropertyValue", "name": "Quetschleistung (g/min)", "value": 150},
+        {"@type": "PropertyValue", "name": "Flockenstärke (mm)", "value": 1}
+      ],
+      "additionalProperty": [
+        {"@type": "PropertyValue", "name": "Getreidesorten", "value": "Hafer, Roggen, Weizen, Dinkel, Gerste"},
+        {"@type": "PropertyValue", "name": "Eigenschaften", "value": "freistehend, robust, reparierbar, 2 Jahre Gewährleistung + 10 Jahre Produkthaftung"}
+      ]
+    }
+  ]
+}
