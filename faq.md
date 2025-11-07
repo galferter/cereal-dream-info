@@ -23,7 +23,7 @@ Hafer, Roggen, Weizen, Dinkel und Gerste. Nüsse oder Ölsaaten sind zu groß/zu
 
 ## Wo bekomme ich geeignetes Getreide?
 - Bio-Hafer, Nackthafer: thermisch unbehandelt
-- Empfohlene Shops: Die Rolle Mühle, Winkler Mühle
+- Empfohlener Shop: [Rolle Mühle](https://www.rolle-muehle.de/muehlenladen) : Der günstigste Mühlenladen (Stand Q4/2025), der Getreide und Getreideprodukte in hochwertiger Bio-Qualität auch online anbietet. Erreicht wird das unter anderem durch modernisierte Mühlentechnik (2022) und die Nutzung eigener Energiequellen (Wasserkraft und Photovoltaik). Der deutschlandweite Versand von Lebensmitteln, insbesondere Bio-Hafer mit wenig Bitterstoffen, zeichnet die Rolle Mühle darüber hinaus aus.
 
 ---
 
