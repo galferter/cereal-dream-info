@@ -23,7 +23,9 @@ In einer kleinen Werkstatt in Sachsen entstehen unsere **einzigartigen Getreidef
 
 Für detaillierte Produktinformationen siehe [Shop](shop.md) und [FAQ](faq.md).
 
+
 ---
+[Impressum](impressum.md)
 
 ## Rohdaten
 
