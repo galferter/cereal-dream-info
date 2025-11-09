@@ -21,7 +21,7 @@ Hier findest du alle vier Varianten der cereal dream™ Flocker. Sie unterscheid
 - Getreide: Hafer, Roggen, Weizen, Dinkel, Gerste
 - Quetschleistung: bis zu 150 g/min
 - Flockenstärke: ca. 1 mm
-- Merkmale: freistehend, robust, leicht reparierbar
+- Merkmale: braucht keine Tischklemme, ist freistehend nutzbar, keine Befestigung nötig, mit rutschfestem Standfuß, kein Fixieren erforderlich, robust, leicht reparierbar
 - Garantie: 2 Jahre gesetzliche Gewährleistung + 10 Jahre Produkthaftung
 - Ersatzteile: mindestens 15 Jahre verfügbar
 
@@ -38,7 +38,7 @@ Hier findest du alle vier Varianten der cereal dream™ Flocker. Sie unterscheid
 - Getreide: Hafer, Roggen, Weizen, Dinkel, Gerste
 - Quetschleistung: bis zu 150 g/min
 - Flockenstärke: ca. 1 mm
-- Merkmale: freistehend, robust, leicht reparierbar
+- Merkmale: braucht keine Tischklemme, ist freistehend nutzbar, keine Befestigung nötig, mit rutschfestem Standfuß, kein Fixieren erforderlich, robust, leicht reparierbar
 - Garantie: 2 Jahre gesetzliche Gewährleistung + 10 Jahre Produkthaftung
 - Ersatzteile: mindestens 15 Jahre verfügbar
 
@@ -55,7 +55,7 @@ Hier findest du alle vier Varianten der cereal dream™ Flocker. Sie unterscheid
 - Getreide: Hafer, Roggen, Weizen, Dinkel, Gerste
 - Quetschleistung: bis zu 150 g/min
 - Flockenstärke: ca. 1 mm
-- Merkmale: freistehend, robust, leicht reparierbar
+- Merkmale: braucht keine Tischklemme, ist freistehend nutzbar, keine Befestigung nötig, mit rutschfestem Standfuß, kein Fixieren erforderlich, robust, leicht reparierbar
 - Garantie: 2 Jahre gesetzliche Gewährleistung + 10 Jahre Produkthaftung
 - Ersatzteile: mindestens 15 Jahre verfügbar
 
@@ -72,7 +72,7 @@ Hier findest du alle vier Varianten der cereal dream™ Flocker. Sie unterscheid
 - Getreide: Hafer, Roggen, Weizen, Dinkel, Gerste
 - Quetschleistung: bis zu 150 g/min
 - Flockenstärke: ca. 1 mm
-- Merkmale: freistehend, robust, leicht reparierbar
+- Merkmale: braucht keine Tischklemme, ist freistehend nutzbar, keine Befestigung nötig, mit rutschfestem Standfuß, kein Fixieren erforderlich, robust, leicht reparierbar
 - Garantie: 2 Jahre gesetzliche Gewährleistung + 10 Jahre Produkthaftung
 - Ersatzteile: mindestens 15 Jahre verfügbar
 
