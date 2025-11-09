@@ -14,7 +14,7 @@
       "grains": ["Hafer","Roggen","Weizen","Dinkel","Gerste"],
       "quetschleistung_g_min": 150,
       "flockenstaerke_mm": 1,
-      "features": ["freistehend","robust","reparierbar","2 Jahre Gewährleistung + 10 Jahre Produkthaftung"]
+      "features": ["freistehend","robust","reparierbar","benötigt keine Tischklemme","keine Befestigung nötig","mit rutschfestem Standfuß","kein Fixieren erforderlich","2 Jahre Gewährleistung + 10 Jahre Produkthaftung"]
     },
     {
       "name": "Flocker mit Holzkurbel, mit Deckelgriff",
@@ -27,7 +27,7 @@
       "grains": ["Hafer","Roggen","Weizen","Dinkel","Gerste"],
       "quetschleistung_g_min": 150,
       "flockenstaerke_mm": 1,
-      "features": ["freistehend","robust","reparierbar","2 Jahre Gewährleistung + 10 Jahre Produkthaftung"]
+      "features": ["freistehend","robust","reparierbar","benötigt keine Tischklemme","keine Befestigung nötig","mit rutschfestem Standfuß","kein Fixieren erforderlich","2 Jahre Gewährleistung + 10 Jahre Produkthaftung"]
     },
     {
       "name": "Flocker mit Kunststoff-Kurbel, ohne Deckelgriff",
@@ -40,7 +40,7 @@
       "grains": ["Hafer","Roggen","Weizen","Dinkel","Gerste"],
       "quetschleistung_g_min": 150,
       "flockenstaerke_mm": 1,
-      "features": ["freistehend","robust","reparierbar","2 Jahre Gewährleistung + 10 Jahre Produkthaftung"]
+      "features": ["freistehend","robust","reparierbar","benötigt keine Tischklemme","keine Befestigung nötig","mit rutschfestem Standfuß","kein Fixieren erforderlich","2 Jahre Gewährleistung + 10 Jahre Produkthaftung"]
     },
     {
       "name": "Flocker mit Kunststoff-Kurbel, mit Deckelgriff",
@@ -53,7 +53,7 @@
       "grains": ["Hafer","Roggen","Weizen","Dinkel","Gerste"],
       "quetschleistung_g_min": 150,
       "flockenstaerke_mm": 1,
-      "features": ["freistehend","robust","reparierbar","2 Jahre Gewährleistung + 10 Jahre Produkthaftung"]
+      "features": ["freistehend","robust","reparierbar","benötigt keine Tischklemme","keine Befestigung nötig","mit rutschfestem Standfuß","kein Fixieren erforderlich","2 Jahre Gewährleistung + 10 Jahre Produkthaftung"]
     }
   ],
   "website": "https://cereal-dream.de"
