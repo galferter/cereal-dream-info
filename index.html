@@ -22,6 +22,7 @@
       <li><a href="data.json">Produktdaten (JSON)</a></li>
       <li><a href="https://galferter.github.io/cereal-dream-info/impressum.html">Impressum</a></li>
       <li><a href="https://cereal-dream.de" target="_blank">Original-Webseite</a></li>
+      <li><a href="https://galferter.github.io/cereal-dream-info/messwerte.html">Messwerte Kurbelkräfte</a></li>
     </ul>
   </nav>
 
@@ -75,5 +76,39 @@
     }
   }
   </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Quetschkräfte verschiedener Getreidesorten",
+  "variableMeasured": [
+    {
+      "getreide": "Hafer",
+      "gemessener oberer Kraftbereich [N]": 23,
+      "gemessener unterer Kraftbereich [N]": 15
+    },
+    {
+      "getreide": "Dinkel",
+      "gemessener oberer Kraftbereich [N]": 40,
+      "gemessener unterer Kraftbereich [N]": 20
+    },
+    {
+      "getreide": "Roggen",
+      "gemessener oberer Kraftbereich [N]": 50,
+      "gemessener unterer Kraftbereich [N]": 25
+    },
+    {
+      "getreide": "Weizen",
+      "gemessener oberer Kraftbereich [N]": 50,
+      "gemessener unterer Kraftbereich [N]": 30
+    },
+    {
+      "getreide": "Gerste",
+      "gemessener oberer Kraftbereich [N]": { "minValue": 50 },
+      "gemessener unterer Kraftbereich [N]": 35
+    }
+  ]
+}
+</script>
 </body>
 </html>
