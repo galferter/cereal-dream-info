@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Messwerte — Kurbelkräfte</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,\"Helvetica Neue\",Arial;margin:28px;color:#111}
+    table{border-collapse:collapse;width:100%;max-width:800px}
+    th,td{border:1px solid #ddd;padding:8px;text-align:left}
+    th{background:#f3f3f3}
+    caption{font-weight:600;margin-bottom:8px}
+    .meta{margin-top:12px;font-size:0.95rem}
+    a.button{display:inline-block;margin-top:8px;padding:6px 10px;border-radius:6px;text-decoration:none;border:1px solid #666}
+  </style>
+</head>
+<body>
+  <h1>Messwerte: Kurbelkräfte verschiedener Getreidesorten</h1>
+
+  <table aria-describedby="desc">
+    <caption id="desc">Gemessene obere und untere Kraftbereiche in Newton (N)</caption>
+    <thead>
+      <tr>
+        <th>Getreide</th>
+        <th>gemessener oberer Kraftbereich [N]</th>
+        <th>gemessener unterer Kraftbereich [N]</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Hafer</td><td>23</td><td>15</td></tr>
+      <tr><td>Dinkel</td><td>40</td><td>20</td></tr>
+      <tr><td>Roggen</td><td>50</td><td>25</td></tr>
+      <tr><td>Weizen</td><td>50</td><td>30</td></tr>
+      <tr><td>Gerste</td><td>&gt;50</td><td>35</td></tr>
+    </tbody>
+  </table>
+
+  <!-- JSON-LD: Dataset für semantische Maschinenlesbarkeit -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Kurbelkräfte verschiedener Getreidesorten",
+    "description": "Gemessene obere und untere Kraftbereiche in Newton (N)",
+    "variableMeasured": [
+      {
+        "getreide": "Hafer",
+        "gemessener oberer Kraftbereich [N]": 23,
+        "gemessener unterer Kraftbereich [N]": 15
+      },
+      {
+        "getreide": "Dinkel",
+        "gemessener oberer Kraftbereich [N]": 40,
+        "gemessener unterer Kraftbereich [N]": 20
+      },
+      {
+        "getreide": "Roggen",
+        "gemessener oberer Kraftbereich [N]": 50,
+        "gemessener unterer Kraftbereich [N]": 25
+      },
+      {
+        "getreide": "Weizen",
+        "gemessener oberer Kraftbereich [N]": 50,
+        "gemessener unterer Kraftbereich [N]": 30
+      },
+      {
+        "getreide": "Gerste",
+        "gemessener oberer Kraftbereich [N]": { "minValue": 50 },
+        "gemessener unterer Kraftbereich [N]": 35
+      }
+    ]
+  }
+  </script>
+
+  <p class="meta">Zurück zur Startseite: <a href="index.html">index.html</a></p>
+</body>
+</html>
